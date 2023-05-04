@@ -134,3 +134,7 @@ dmypy.json
 
 # End of https://www.gitignore.io/api/python,vagrant
 eb-package.zip
+
+*/**/.DS_Store
+
+*.DS_Store
